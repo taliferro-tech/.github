@@ -2,7 +2,14 @@
 
 **Engineered for Financial Dividends**
 
-[taliferro.tech](https://taliferro.tech) · [TODD Platform](https://todd.taliferro.tech) · [Taliferro Group](https://taliferro.com) · [LinkedIn](https://www.linkedin.com/company/taliferro-tech) · [YouTube](https://www.youtube.com/@TaliferroTechLLC) · [Instagram](https://www.instagram.com/taliferrotech/)
+[![Website](https://img.shields.io/badge/taliferro.tech-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taliferro.tech)
+[![TODD Platform](https://img.shields.io/badge/TODD_Platform-10B981?style=for-the-badge&logo=sparkles&logoColor=white)](https://todd.taliferro.tech)
+[![Taliferro Group](https://img.shields.io/badge/taliferro.com-1E3A8A?style=for-the-badge&logo=safari&logoColor=white)](https://taliferro.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/taliferro-tech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TaliferroTechLLC)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taliferrotech/)
+[![X](https://img.shields.io/badge/@TaliferroLLC-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TaliferroLLC)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@taliferrogroup)
 
 ---
 
